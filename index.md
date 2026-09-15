@@ -5,6 +5,8 @@
 
 > **Last reviewed:** 12 September 2026. Bracketed references such as [S3] point to the numbered Sources at the end; all are Chinese-language government pages unless noted. Statements marked **[Unverified]** come from the previous version of this guide and could not be traced to a specific official page. Statements marked **[Practice report]** describe experience reported by families or the maintainers for which no written official source was found; those additionally marked **(second-hand)** were relayed from other families rather than experienced directly, so they are the weakest material here. Confirm both with the authority concerned before relying on them.
 
+[Share feedback, corrections or suggestions](https://github.com/your-username/your-repo/issues/new?title=Feedback&body=Your%20suggestion%20here)
+
 ---
 
 # Contents
