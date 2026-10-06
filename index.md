@@ -13,6 +13,7 @@
 
 # Contents
 
+- [Key Takeaways](#key-takeaways)
 - [Introduction](#introduction)
 - [Part One: Understanding the Basics](#part-one-understanding-the-basics)
   - [1.1 Key Terms and Definitions](#11-key-terms-and-definitions)
@@ -60,7 +61,6 @@
 - [Part Eight: Summary and Quick Reference](#part-eight-summary-and-quick-reference)
   - [8.1 Document Decision Tree](#81-document-decision-tree)
   - [8.2 Age-Based Summary](#82-age-based-summary)
-  - [8.3 Key Takeaways](#83-key-takeaways)
 - [Revision History](#revision-history)
 - [Sources](#sources)
   - [I. Laws, Regulations and Normative Documents](#i-laws-regulations-and-normative-documents)
@@ -71,6 +71,30 @@
   - [VI. Foreign-Government and Non-Government Sources](#vi-foreign-government-and-non-government-sources)
   - [VII. Exit-Entry Permit Rules by Province and City](#vii-exit-entry-permit-rules-by-province-and-city)
   - [VIII. NIA Enquiry Replies: Original Text](#viii-nia-enquiry-replies-original-text)
+
+---
+
+# Key Takeaways
+
+The short version. Each point is expanded later in the guide, at the section named.
+
+1. **China does not recognize dual nationality** for Chinese citizens. If your child is Chinese under Chinese law, that is the only nationality China recognizes [\[S1\]](https://www.nia.gov.cn/n741440/n741547/c1013967/content.html)[\[S12\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=XnD%2Fs0j%2FZ6YV1zBzlKiEEg%3D%3D).
+
+2. **The parents' status at the time of birth decides.** For a child born abroad with a foreign nationality at birth: if **either** Chinese parent held foreign permanent residency at the birth, the child is not Chinese; if no Chinese parent did, the child is Chinese [\[S6\]](https://gat.zj.gov.cn/art/2015/1/9/art_1229098253_600299.html)[\[S21\]](https://gb.china-embassy.gov.cn/lsfw_137163/lszj/hzlxz/sbhzlxzxz/202312/t20231215_11202867.htm)[\[S23\]](https://losangeles.china-consulate.gov.cn/lbqw/lszj/hzlxz/202506/t20250625_11658204.htm).
+
+3. **Nationality-conflict persons cannot get Chinese visas.** The consulate decides between visa and Travel Document; parents cannot choose [\[S20\]](https://jm.china-embassy.gov.cn/lsfw/hzqz/sqxz/202311/t20231129_11188824.htm)[\[S33\]](http://wqb.hunan.gov.cn/xxgk/lbxx/201903/t20190320_5298474.html).
+
+4. **The document depends on location and what the person already holds** (see 8.1; trade-offs in 4.5). A person in China with a valid Travel Document simply leaves on it [\[S10\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=NVp1yR02CHoC6IjdpMqppg%3D%3D).
+
+5. **The Exit-Entry Permit is valid for 3 months for one exit and one entry** [\[S5\]](http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2532756.html). Staying abroad longer means applying for a Travel Document there [\[S23\]](https://losangeles.china-consulate.gov.cn/lbqw/lszj/hzlxz/202506/t20250625_11658204.htm).
+
+6. **Turning 18 does not change the status automatically.** Nationality is determined when documents are applied for, and consular practice varies, especially if the family later settles abroad [\[S11\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=pkmAunjGDGzbiy1XkMpfaA%3D%3D)[\[S20\]](https://jm.china-embassy.gov.cn/lsfw/hzqz/sqxz/202311/t20231129_11188824.htm)[\[S22\]](https://edinburgh.china-consulate.gov.cn/lsfw/hzlxz/202308/t20230824_11132135.htm).
+
+7. **Hukou and the Exit-Entry Permit can coexist** [\[S36\]](https://gat.fujian.gov.cn/ztzl/cryjfwwj/bsxz_28282/202301/t20230103_6086342.htm)[\[S39\]](http://gdga.gd.gov.cn/bsfw/zsk/qt/content/post_3368370.html), but local *hukou* rules vary (e.g., Fuzhou's declaration on foreign citizenship) [\[S42\]](https://gaj.fuzhou.gov.cn/jwxx/ztlm/hzywbszn/hwbbszn/cssb_62028/202202/t20220211_4307783.htm).
+
+8. **Treaty-based travel facilitation exists only with some countries** (US, Canada, Australia, New Zealand) [\[S25\]](https://nagoya.china-consulate.gov.cn/lsfw/a1/202506/t20250620_11653715.htm)[\[S7\]](https://losangeles.china-consulate.gov.cn/lbqw/gywm/lxlqz/201710/t20171020_5539493.htm). Pro forma visas (US; reportedly France) are discretionary and for minors; the UK's right-of-abode certificate is a published alternative (7.3). Visa-free entry with the foreign passport should not be assumed [\[S3\]](https://www.nia.gov.cn/n741440/n741547/c1013311/content.html)[\[S34\]](https://au.china-embassy.gov.cn/lsfw/qz/202511/t20251112_11751551.htm).
+
+9. **Always check with local authorities.** Rules vary by province, city, consulate and port. Consult the local public security exit-entry office (in China) or the Chinese embassy/consulate for your district (abroad).
 
 ---
 
@@ -688,6 +712,8 @@ A child the authorities treat as a Chinese national sits outside the foreigner r
 
 # Part Eight: Summary and Quick Reference
 
+*The key takeaways are at the top of this guide.*
+
 ## 8.1 Document Decision Tree
 
 ```
@@ -718,26 +744,6 @@ A child the authorities treat as a Chinese national sits outside the foreigner r
 | 6 to under 16 | Same as above | Same as above | Plus DNA parentage certificate; review up to district sub-bureau [\[S40\]](https://ga.tj.gov.cn/bmfw/bszn/renkou/202202/t20220227_5815023.html) |
 | 16 to under 18 | Applies personally; when renewing, signs Part 2 of the declaration (Los Angeles) [\[S23\]](https://losangeles.china-consulate.gov.cn/lbqw/lszj/hzlxz/202506/t20250625_11658204.htm) | Applies in person (Fujian) [\[S36\]](https://gat.fujian.gov.cn/ztzl/cryjfwwj/bsxz_28282/202301/t20230103_6086342.htm); Dongguan lets a guardian apply for under-18s [\[S37\]](http://gaj.dg.gov.cn/gb2021/ztzl/crjgl/crjxx/content/post_4350555.html) | Plus DNA parentage certificate; review up to district sub-bureau [\[S40\]](https://ga.tj.gov.cn/bmfw/bszn/renkou/202202/t20220227_5815023.html) |
 | 18+ (Adult) | Applies personally; first-time applicants: parents complete Part 1 of the declaration (Los Angeles) [\[S24\]](https://losangeles.china-consulate.gov.cn/lbqw/lszj/cybg/hzlxzbg/202506/P020250625227680798412.pdf) | Applies in person [\[S36\]](https://gat.fujian.gov.cn/ztzl/cryjfwwj/bsxz_28282/202301/t20230103_6086342.htm) | Not covered by Tianjin's guide for children; check locally |
-
-## 8.3 Key Takeaways
-
-1. **China does not recognize dual nationality** for Chinese citizens. If your child is Chinese under Chinese law, that is the only nationality China recognizes [\[S1\]](https://www.nia.gov.cn/n741440/n741547/c1013967/content.html)[\[S12\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=XnD%2Fs0j%2FZ6YV1zBzlKiEEg%3D%3D).
-
-2. **The parents' status at the time of birth decides.** For a child born abroad with a foreign nationality at birth: if **either** Chinese parent held foreign permanent residency at the birth, the child is not Chinese; if no Chinese parent did, the child is Chinese [\[S6\]](https://gat.zj.gov.cn/art/2015/1/9/art_1229098253_600299.html)[\[S21\]](https://gb.china-embassy.gov.cn/lsfw_137163/lszj/hzlxz/sbhzlxzxz/202312/t20231215_11202867.htm)[\[S23\]](https://losangeles.china-consulate.gov.cn/lbqw/lszj/hzlxz/202506/t20250625_11658204.htm).
-
-3. **Nationality-conflict persons cannot get Chinese visas.** The consulate decides between visa and Travel Document; parents cannot choose [\[S20\]](https://jm.china-embassy.gov.cn/lsfw/hzqz/sqxz/202311/t20231129_11188824.htm)[\[S33\]](http://wqb.hunan.gov.cn/xxgk/lbxx/201903/t20190320_5298474.html).
-
-4. **The document depends on location and what the person already holds** (see 8.1; trade-offs in 4.5). A person in China with a valid Travel Document simply leaves on it [\[S10\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=NVp1yR02CHoC6IjdpMqppg%3D%3D).
-
-5. **The Exit-Entry Permit is valid for 3 months for one exit and one entry** [\[S5\]](http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2532756.html). Staying abroad longer means applying for a Travel Document there [\[S23\]](https://losangeles.china-consulate.gov.cn/lbqw/lszj/hzlxz/202506/t20250625_11658204.htm).
-
-6. **Turning 18 does not change the status automatically.** Nationality is determined when documents are applied for, and consular practice varies, especially if the family later settles abroad [\[S11\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=pkmAunjGDGzbiy1XkMpfaA%3D%3D)[\[S20\]](https://jm.china-embassy.gov.cn/lsfw/hzqz/sqxz/202311/t20231129_11188824.htm)[\[S22\]](https://edinburgh.china-consulate.gov.cn/lsfw/hzlxz/202308/t20230824_11132135.htm).
-
-7. **Hukou and the Exit-Entry Permit can coexist** [\[S36\]](https://gat.fujian.gov.cn/ztzl/cryjfwwj/bsxz_28282/202301/t20230103_6086342.htm)[\[S39\]](http://gdga.gd.gov.cn/bsfw/zsk/qt/content/post_3368370.html), but local *hukou* rules vary (e.g., Fuzhou's declaration on foreign citizenship) [\[S42\]](https://gaj.fuzhou.gov.cn/jwxx/ztlm/hzywbszn/hwbbszn/cssb_62028/202202/t20220211_4307783.htm).
-
-8. **Treaty-based travel facilitation exists only with some countries** (US, Canada, Australia, New Zealand) [\[S25\]](https://nagoya.china-consulate.gov.cn/lsfw/a1/202506/t20250620_11653715.htm)[\[S7\]](https://losangeles.china-consulate.gov.cn/lbqw/gywm/lxlqz/201710/t20171020_5539493.htm). Pro forma visas (US; reportedly France) are discretionary and for minors; the UK's right-of-abode certificate is a published alternative (7.3). Visa-free entry with the foreign passport should not be assumed [\[S3\]](https://www.nia.gov.cn/n741440/n741547/c1013311/content.html)[\[S34\]](https://au.china-embassy.gov.cn/lsfw/qz/202511/t20251112_11751551.htm).
-
-9. **Always check with local authorities.** Rules vary by province, city, consulate and port. Consult the local public security exit-entry office (in China) or the Chinese embassy/consulate for your district (abroad).
 
 ---
 
