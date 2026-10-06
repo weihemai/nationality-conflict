@@ -56,6 +56,7 @@
   - [7.4 Foreign Documents: Legalization and Apostille](#74-foreign-documents-legalization-and-apostille)
   - [7.5 What About DNA Testing for Hukou Registration?](#75-what-about-dna-testing-for-hukou-registration)
   - [7.6 Children Registered as Foreigners (Residence Permits)](#76-children-registered-as-foreigners-residence-permits)
+  - [7.7 Staying in China: What Is *Not* Required](#77-staying-in-china-what-is-not-required)
 - [Part Eight: Summary and Quick Reference](#part-eight-summary-and-quick-reference)
   - [8.1 Document Decision Tree](#81-document-decision-tree)
   - [8.2 Age-Based Summary](#82-age-based-summary)
@@ -671,15 +672,17 @@ It is a proof-of-parentage requirement, not a check on nationality or on the chi
 - **For a visit rather than a stay, a visa may not be needed at all.** Where the person is treated as a foreign national of a country covered by a mutual visa-exemption agreement, or by the unilateral or transit visa-free arrangements, a family visit falls inside those schemes on the same terms as any other short visit, within the stay each one allows [\[S80\]](https://www.mfa.gov.cn/wjbzwfwpt/kzx/tzgg/202504/t20250414_11594222.html)[\[S81\]](https://www.gov.cn/lianbo/bumen/202506/content_7027403.htm)[\[S34\]](https://au.china-embassy.gov.cn/lsfw/qz/202511/t20251112_11751551.htm). That is a route for relatives visiting a family in China; it is **not** a way round a nationality conflict for the child, because a person China regards as its own national is outside the foreigner rules altogether (see 5.7) [\[S12\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=XnD%2Fs0j%2FZ6YV1zBzlKiEEg%3D%3D). Permits for under-18s run at most 3 years and not beyond the 18th birthday; others up to 2 years [\[S54\]](https://s.nia.gov.cn/mps/bszy/wgrcrj/sqwgrjlzj/201903/t20190313_1007.html).
 - In 2008 the Shanghai Public Security Bureau answered that a Shanghai-born child with one Chinese parent who had obtained a foreign passport from a foreign consulate in China has Chinese nationality and should follow the nationality-conflict exit procedure [\[S50\]](https://gaj.sh.gov.cn/shga/wzXxfbGj/detail?pa=110ef360e4374a41ba22608fbc632f46ed96736af54c5a8198d21bb8618abb68).
 - A 2017 French Senate question reported that Franco-Chinese children born in China could no longer renew their visas because China regarded them as Chinese [\[S62\]](https://www.senat.fr/questions/base/2017/qSEQ170224983.html).
-**What a nationality-conflict child does *not* need in order to stay in China**
+- Being known to Chinese systems as a foreigner does not settle nationality: authorities determine nationality when the person applies for documents [\[S11\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=pkmAunjGDGzbiy1XkMpfaA%3D%3D)[\[S12\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=XnD%2Fs0j%2FZ6YV1zBzlKiEEg%3D%3D). See 5.7 on visa-free entry.
 
-A child the authorities treat as a Chinese national sits outside the foreigner regime, which has a practical consequence parents often find surprising:
+---
+
+## 7.7 Staying in China: What Is *Not* Required
+
+A child the authorities treat as a Chinese national sits outside the foreigner regime altogether, which has practical consequences parents often find surprising. None of the following is needed in order to live in, or visit, China:
 
 - **No foreigner registration at the police station.** The accommodation-registration duty in Article 39 of the Exit-Entry Law is a duty of **foreigners**, and Article 89 defines a foreigner as a person without Chinese nationality [\[S3\]](https://www.nia.gov.cn/n741440/n741547/c1013311/content.html). A child determined to be Chinese is not one. **[Practice report]** In practice such registration is usually impossible anyway, as there is no visa or residence permit to register against. It can sometimes be forced through a municipal or the newer NIA online registration system using the foreign passport, but that records the child as something they are not; better avoided.
 - **No *hukou*, and no local residence permit, in order to remain.** Neither is a condition of staying: *hukou* is a residence registration for Chinese citizens, and the foreigners' residence permit presupposes foreign nationality [\[S3\]](https://www.nia.gov.cn/n741440/n741547/c1013311/content.html). **[Practice report]** Children in this position live in China indefinitely without either, including in cities other than the parents'. What the lack of *hukou* does affect is access to services — public school places, insurance, and so on — which is the usual reason families register it (see Part Three).
 - **No visa, and no permitted period of stay.** Having entered as a Chinese national on a Travel Document or Exit-Entry Permit, there is no stay period to overrun and nothing to extend; the Travel Document's expiry affects the next **departure**, not the right to be there (see 5.2) [\[S12\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=XnD%2Fs0j%2FZ6YV1zBzlKiEEg%3D%3D).
-
-- Being known to Chinese systems as a foreigner does not settle nationality: authorities determine nationality when the person applies for documents [\[S11\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=pkmAunjGDGzbiy1XkMpfaA%3D%3D)[\[S12\]](https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=XnD%2Fs0j%2FZ6YV1zBzlKiEEg%3D%3D). See 5.7 on visa-free entry.
 
 ---
 
